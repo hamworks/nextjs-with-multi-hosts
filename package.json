@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-with-subdomain",
+  "name": "nextjs-with-multi-hosts",
   "version": "0.1.0",
   "private": true,
   "scripts": {
